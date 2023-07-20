@@ -12,4 +12,4 @@
 * Git
 * Figma
 
-Проектная работа на GitHub Pages: https://zagudaevanataly.github.io/ono-tebe-nado/
+https://zagudaevanataly.github.io/ono-tebe-nado/
