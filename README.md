@@ -5,7 +5,6 @@
 "Оно тебе надо" - это типовой однастраничный сайт, предназначен для просмотра на большом мониторе. 
 
 
-
 ## Технологии:
 
 * Flexbox
@@ -13,3 +12,5 @@
 * Positioning Elements
 * Git
 * Figma
+
+https://github.com/ZagudaevaNataly/ono-tebe-nado
