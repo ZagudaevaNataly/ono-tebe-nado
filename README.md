@@ -13,7 +13,3 @@
 * Positioning Elements
 * Git
 * Figma
-
-## Ссылка на макет:
-
-[Макет в "Figma"](https://www.figma.com/file/v8RXfCvMVchCfmblUs66uQ/%232-Оно-тебе-надо-(Copy)?node-id=0%3A1&mode=dev)
