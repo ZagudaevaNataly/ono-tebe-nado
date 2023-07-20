@@ -4,7 +4,7 @@
 
 "Оно тебе надо" - это типовой однастраничный сайт, предназначен для просмотра на большом мониторе. 
 
-[Проектная работа на GitHub Pages](https://zagudaevanataly.github.io/russian-travel/)
+[Проектная работа на GitHub Pages](https://zagudaevanataly.github.io/ono-tebe-nado/)
 
 ## Технологии:
 
